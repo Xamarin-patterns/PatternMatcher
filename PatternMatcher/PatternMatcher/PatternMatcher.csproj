@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>FluentPatternMatcher</PackageId>
+    <Authors>Ahmed Fouad</Authors>
+    <RepositoryUrl>https://github.com/Xamarin-patterns/PatternMatcher</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Xamarin-patterns/PatternMatcher</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
