@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -6,7 +6,6 @@
     <Authors>Ahmed Fouad</Authors>
     <RepositoryUrl>https://github.com/Xamarin-patterns/PatternMatcher</RepositoryUrl>
     <PackageProjectUrl>https://github.com/Xamarin-patterns/PatternMatcher</PackageProjectUrl>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
